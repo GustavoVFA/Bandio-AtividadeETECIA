@@ -75,7 +75,7 @@
             app:endIconDrawable="@drawable/help_vector"
             app:endIconMode="password_toggle"
             app:endIconTint="@color/white"
-            app:startIconDrawable="@drawable/lock_vector"
+            app:startIconDrawable="@drawable/key_vector"
             app:startIconTint="@color/white">
 
             <com.google.android.material.textfield.TextInputEditText
